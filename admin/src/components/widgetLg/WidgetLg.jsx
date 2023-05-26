@@ -17,14 +17,14 @@ export default function WidgetLg() {
         <tr className="widgetLgTr">
           <td className="widgetLgUser">
             <img
-              src="https://images.pexels.com/photos/4172933/pexels-photo-4172933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+              src="https://media.istockphoto.com/id/519078727/photo/male-silhouette-as-avatar-profile-picture.jpg?s=612x612&w=is&k=20&c=LbrCDYxdJk7_7dk_A7H3ebDV5yATfymSP7x2iMlTj9M="
               alt=""
               className="widgetLgImg"
             />
-            <span className="widgetLgName">Susan Carol</span>
+            <span className="widgetLgName">kishan</span>
           </td>
-          <td className="widgetLgDate">2 Jun 2021</td>
-          <td className="widgetLgAmount">$122.00</td>
+          <td className="widgetLgDate">2 Feb 2023</td>
+          <td className="widgetLgAmount">₹422.00</td>
           <td className="widgetLgStatus">
             <Button type="Approved" />
           </td>
@@ -32,14 +32,14 @@ export default function WidgetLg() {
         <tr className="widgetLgTr">
           <td className="widgetLgUser">
             <img
-              src="https://images.pexels.com/photos/4172933/pexels-photo-4172933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+              src="https://media.istockphoto.com/id/519078727/photo/male-silhouette-as-avatar-profile-picture.jpg?s=612x612&w=is&k=20&c=LbrCDYxdJk7_7dk_A7H3ebDV5yATfymSP7x2iMlTj9M="
               alt=""
               className="widgetLgImg"
             />
-            <span className="widgetLgName">Susan Carol</span>
+            <span className="widgetLgName">prasanth</span>
           </td>
-          <td className="widgetLgDate">2 Jun 2021</td>
-          <td className="widgetLgAmount">$122.00</td>
+          <td className="widgetLgDate">2 Feb 2023</td>
+          <td className="widgetLgAmount">₹552.00</td>
           <td className="widgetLgStatus">
             <Button type="Declined" />
           </td>
@@ -47,14 +47,14 @@ export default function WidgetLg() {
         <tr className="widgetLgTr">
           <td className="widgetLgUser">
             <img
-              src="https://images.pexels.com/photos/4172933/pexels-photo-4172933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+              src="https://media.istockphoto.com/id/519078727/photo/male-silhouette-as-avatar-profile-picture.jpg?s=612x612&w=is&k=20&c=LbrCDYxdJk7_7dk_A7H3ebDV5yATfymSP7x2iMlTj9M="
               alt=""
               className="widgetLgImg"
             />
-            <span className="widgetLgName">Susan Carol</span>
+            <span className="widgetLgName">shrinivas</span>
           </td>
-          <td className="widgetLgDate">2 Jun 2021</td>
-          <td className="widgetLgAmount">$122.00</td>
+          <td className="widgetLgDate">2 Feb 2023</td>
+          <td className="widgetLgAmount">₹300.00</td>
           <td className="widgetLgStatus">
             <Button type="Pending" />
           </td>
@@ -62,14 +62,14 @@ export default function WidgetLg() {
         <tr className="widgetLgTr">
           <td className="widgetLgUser">
             <img
-              src="https://images.pexels.com/photos/4172933/pexels-photo-4172933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+              src="https://media.istockphoto.com/id/519078727/photo/male-silhouette-as-avatar-profile-picture.jpg?s=612x612&w=is&k=20&c=LbrCDYxdJk7_7dk_A7H3ebDV5yATfymSP7x2iMlTj9M="
               alt=""
               className="widgetLgImg"
             />
-            <span className="widgetLgName">Susan Carol</span>
+            <span className="widgetLgName">ashwij</span>
           </td>
-          <td className="widgetLgDate">2 Jun 2021</td>
-          <td className="widgetLgAmount">$122.00</td>
+          <td className="widgetLgDate">2 Feb 2023</td>
+          <td className="widgetLgAmount">₹450.00</td>
           <td className="widgetLgStatus">
             <Button type="Approved" />
           </td>
